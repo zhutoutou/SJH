@@ -95,3 +95,6 @@ D:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\o
 D:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\obj\x86\Release\ZIT.SJHServer.UI.frmMain.resources
 D:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\obj\x86\Release\ZIT.SJHServer.UI.Properties.Resources.resources
 D:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\obj\x86\Release\SJHServer.csproj.GenerateResource.Cache
+D:\Code\SJH\市县联网\市交换\src\SJHServer\bin\Release\SJHServer.exe.config
+D:\Code\SJH\市县联网\市交换\src\SJHServer\obj\x86\Release\SJHServer.exe
+D:\Code\SJH\市县联网\市交换\src\SJHServer\obj\x86\Release\SJHServer.pdb
