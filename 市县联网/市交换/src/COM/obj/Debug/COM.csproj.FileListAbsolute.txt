@@ -1,0 +1,101 @@
+D:\Programs\EMIAN\EMIAN_1.0\EMIANSrv\COM\obj\Debug\ResolveAssemblyReference.cache
+D:\Programs\EMIAN\EMIAN_1.0\EMIANSrv\COM\bin\Debug\ZITComm.dll
+D:\Programs\EMIAN\EMIAN_1.0\EMIANSrv\COM\bin\Debug\ZITComm.pdb
+D:\Programs\EMIAN\EMIAN_1.0\EMIANSrv\COM\bin\Debug\Model.dll
+D:\Programs\EMIAN\EMIAN_1.0\EMIANSrv\COM\bin\Debug\Model.pdb
+D:\Programs\EMIAN\EMIAN_1.0\EMIANSrv\COM\obj\Debug\ZITComm.dll
+D:\Programs\EMIAN\EMIAN_1.0\EMIANSrv\COM\obj\Debug\ZITComm.pdb
+D:\120Programs\Programs\120-RP-9.0\ZXRP\ZXRP\COM\bin\Debug\ZIT.Comm.dll
+D:\120Programs\Programs\120-RP-9.0\ZXRP\ZXRP\COM\bin\Debug\ZIT.Comm.pdb
+D:\120Programs\Programs\120-RP-9.0\ZXRP\ZXRP\COM\bin\Debug\Model.dll
+D:\120Programs\Programs\120-RP-9.0\ZXRP\ZXRP\COM\bin\Debug\ZIT.Log.dll
+D:\120Programs\Programs\120-RP-9.0\ZXRP\ZXRP\COM\bin\Debug\log4net.dll
+D:\120Programs\Programs\120-RP-9.0\ZXRP\ZXRP\COM\bin\Debug\ZIT.Log.pdb
+D:\120Programs\Programs\120-RP-9.0\ZXRP\ZXRP\COM\bin\Debug\Model.pdb
+D:\120Programs\Programs\120-RP-9.0\ZXRP\ZXRP\COM\obj\Debug\ResolveAssemblyReference.cache
+D:\120Programs\Programs\120-RP-9.0\ZXRP\ZXRP\COM\obj\Debug\ZIT.Comm.dll
+D:\120Programs\Programs\120-RP-9.0\ZXRP\ZXRP\COM\obj\Debug\ZIT.Comm.pdb
+D:\120Programs\Programs\120-RP-9.0\ZITBSS\ZITBSS\COM\bin\Debug\ZIT.Comm.dll
+D:\120Programs\Programs\120-RP-9.0\ZITBSS\ZITBSS\COM\bin\Debug\ZIT.Comm.pdb
+D:\120Programs\Programs\120-RP-9.0\ZITBSS\ZITBSS\COM\bin\Debug\Model.dll
+D:\120Programs\Programs\120-RP-9.0\ZITBSS\ZITBSS\COM\bin\Debug\ZIT.Log.dll
+D:\120Programs\Programs\120-RP-9.0\ZITBSS\ZITBSS\COM\bin\Debug\log4net.dll
+D:\120Programs\Programs\120-RP-9.0\ZITBSS\ZITBSS\COM\bin\Debug\Model.pdb
+D:\120Programs\Programs\120-RP-9.0\ZITBSS\ZITBSS\COM\bin\Debug\ZIT.Log.pdb
+D:\120Programs\Programs\120-RP-9.0\ZITBSS\ZITBSS\COM\obj\Debug\ResolveAssemblyReference.cache
+D:\120Programs\Programs\120-RP-9.0\ZITBSS\ZITBSS\COM\obj\Debug\ZIT.Comm.dll
+D:\120Programs\Programs\120-RP-9.0\ZITBSS\ZITBSS\COM\obj\Debug\ZIT.Comm.pdb
+D:\ZITBSS\ZITBSS\COM\bin\Debug\ZIT.Comm.dll
+D:\ZITBSS\ZITBSS\COM\bin\Debug\ZIT.Comm.pdb
+D:\ZITBSS\ZITBSS\COM\bin\Debug\Model.dll
+D:\ZITBSS\ZITBSS\COM\bin\Debug\ZIT.Log.dll
+D:\ZITBSS\ZITBSS\COM\bin\Debug\log4net.dll
+D:\ZITBSS\ZITBSS\COM\bin\Debug\Model.pdb
+D:\ZITBSS\ZITBSS\COM\bin\Debug\ZIT.Log.pdb
+D:\ZITBSS\ZITBSS\COM\obj\Debug\ResolveAssemblyReference.cache
+D:\ZITBSS\ZITBSS\COM\obj\Debug\ZIT.Comm.dll
+D:\ZITBSS\ZITBSS\COM\obj\Debug\ZIT.Comm.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\市县联网姜正军版\市交换\src\COM\bin\Debug\COM.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\市县联网姜正军版\市交换\src\COM\bin\Debug\COM.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\市县联网姜正军版\市交换\src\COM\bin\Debug\LOG.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\市县联网姜正军版\市交换\src\COM\bin\Debug\log4net.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\市县联网姜正军版\市交换\src\COM\bin\Debug\LOG.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\市县联网姜正军版\市交换\src\COM\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\市县联网姜正军版\市交换\src\COM\obj\Debug\COM.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\市县联网姜正军版\市交换\src\COM\obj\Debug\COM.pdb
+E:\Works\二三级联网\市县联网\县交换\src\COM\bin\Debug\COM.dll
+E:\Works\二三级联网\市县联网\县交换\src\COM\bin\Debug\COM.pdb
+E:\Works\二三级联网\市县联网\县交换\src\COM\bin\Debug\LOG.dll
+E:\Works\二三级联网\市县联网\县交换\src\COM\bin\Debug\log4net.dll
+E:\Works\二三级联网\市县联网\县交换\src\COM\bin\Debug\LOG.pdb
+E:\Works\二三级联网\市县联网\县交换\src\COM\obj\Debug\COM.csprojResolveAssemblyReference.cache
+E:\Works\二三级联网\市县联网\县交换\src\COM\obj\Debug\COM.dll
+E:\Works\二三级联网\市县联网\县交换\src\COM\obj\Debug\COM.pdb
+E:\Works\二三级联网\市县联网\市交换\src\COM\bin\Debug\COM.dll
+E:\Works\二三级联网\市县联网\市交换\src\COM\bin\Debug\COM.pdb
+E:\Works\二三级联网\市县联网\市交换\src\COM\bin\Debug\LOG.dll
+E:\Works\二三级联网\市县联网\市交换\src\COM\bin\Debug\log4net.dll
+E:\Works\二三级联网\市县联网\市交换\src\COM\bin\Debug\LOG.pdb
+E:\Works\二三级联网\市县联网\市交换\src\COM\obj\Debug\COM.csprojResolveAssemblyReference.cache
+E:\Works\二三级联网\市县联网\市交换\src\COM\obj\Debug\COM.dll
+E:\Works\二三级联网\市县联网\市交换\src\COM\obj\Debug\COM.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网所有统计的表\市交换\src\COM\bin\Debug\COM.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网所有统计的表\市交换\src\COM\bin\Debug\COM.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网所有统计的表\市交换\src\COM\bin\Debug\LOG.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网所有统计的表\市交换\src\COM\bin\Debug\log4net.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网所有统计的表\市交换\src\COM\bin\Debug\LOG.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网所有统计的表\市交换\src\COM\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网所有统计的表\市交换\src\COM\obj\Debug\COM.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网所有统计的表\市交换\src\COM\obj\Debug\COM.pdb
+E:\Works\二三级联网\市县联网\市县联网所有统计的表\市交换\src\COM\bin\Debug\COM.dll
+E:\Works\二三级联网\市县联网\市县联网所有统计的表\市交换\src\COM\bin\Debug\COM.pdb
+E:\Works\二三级联网\市县联网\市县联网所有统计的表\市交换\src\COM\bin\Debug\LOG.dll
+E:\Works\二三级联网\市县联网\市县联网所有统计的表\市交换\src\COM\bin\Debug\log4net.dll
+E:\Works\二三级联网\市县联网\市县联网所有统计的表\市交换\src\COM\bin\Debug\LOG.pdb
+E:\Works\二三级联网\市县联网\市县联网所有统计的表\市交换\src\COM\obj\Debug\COM.csprojResolveAssemblyReference.cache
+E:\Works\二三级联网\市县联网\市县联网所有统计的表\市交换\src\COM\obj\Debug\COM.dll
+E:\Works\二三级联网\市县联网\市县联网所有统计的表\市交换\src\COM\obj\Debug\COM.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\COM\bin\Debug\COM.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\COM\bin\Debug\COM.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\COM\bin\Debug\LOG.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\COM\bin\Debug\log4net.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\COM\bin\Debug\LOG.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\COM\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\COM\obj\Debug\COM.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\COM\obj\Debug\COM.pdb
+E:\Works\二三级联网\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\COM\bin\Debug\COM.dll
+E:\Works\二三级联网\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\COM\bin\Debug\COM.pdb
+E:\Works\二三级联网\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\COM\bin\Debug\LOG.dll
+E:\Works\二三级联网\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\COM\bin\Debug\log4net.dll
+E:\Works\二三级联网\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\COM\bin\Debug\LOG.pdb
+E:\Works\二三级联网\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\COM\obj\Debug\COM.csprojResolveAssemblyReference.cache
+E:\Works\二三级联网\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\COM\obj\Debug\COM.dll
+E:\Works\二三级联网\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\COM\obj\Debug\COM.pdb
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\COM\bin\Debug\COM.dll
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\COM\bin\Debug\COM.pdb
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\COM\bin\Debug\LOG.dll
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\COM\bin\Debug\log4net.dll
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\COM\bin\Debug\LOG.pdb
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\COM\obj\Debug\ResolveAssemblyReference.cache
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\COM\obj\Debug\COM.dll
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\COM\obj\Debug\COM.pdb

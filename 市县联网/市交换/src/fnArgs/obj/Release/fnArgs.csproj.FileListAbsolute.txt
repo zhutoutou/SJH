@@ -1,0 +1,8 @@
+D:\tfs\联网系统\Dev\DEP\bin\Release\fnArgs.dll
+D:\tfs\联网系统\Dev\DEP\src\fnArgs\obj\Release\ResolveAssemblyReference.cache
+D:\tfs\联网系统\Dev\DEP\src\fnArgs\obj\Release\fnArgs.dll
+D:\tfs\联网系统\Dev\DEP\src\fnArgs\bin\Release\fnArgs.dll
+D:\tfs\联网系统\Dev\DEP\src\fnArgs\bin\Release\LOG.dll
+D:\tfs\联网系统\Dev\DEP\src\fnArgs\bin\Release\Model.dll
+D:\tfs\联网系统\Dev\DEP\src\fnArgs\bin\Release\log4net.dll
+D:\tfs\联网系统\Dev\DEP\src\fnArgs\bin\Release\Oracle.DataAccess.dll

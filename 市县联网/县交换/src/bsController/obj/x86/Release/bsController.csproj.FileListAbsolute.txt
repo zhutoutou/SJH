@@ -1,0 +1,60 @@
+D:\tfs\联网系统\Dev\DEP\src\bsController\bin\x86\Release\bsController.dll
+D:\tfs\联网系统\Dev\DEP\src\bsController\bin\x86\Release\Extra.dll
+D:\tfs\联网系统\Dev\DEP\src\bsController\bin\x86\Release\fnArgs.dll
+D:\tfs\联网系统\Dev\DEP\src\bsController\bin\x86\Release\fnBssComm.dll
+D:\tfs\联网系统\Dev\DEP\src\bsController\bin\x86\Release\fnBusinessServer.dll
+D:\tfs\联网系统\Dev\DEP\src\bsController\bin\x86\Release\fnClientComm.dll
+D:\tfs\联网系统\Dev\DEP\src\bsController\bin\x86\Release\fnDataAccess.dll
+D:\tfs\联网系统\Dev\DEP\src\bsController\bin\x86\Release\fnGpsComm.dll
+D:\tfs\联网系统\Dev\DEP\src\bsController\bin\x86\Release\fnLocalDataAccess.dll
+D:\tfs\联网系统\Dev\DEP\src\bsController\bin\x86\Release\fnMobileComm.dll
+D:\tfs\联网系统\Dev\DEP\src\bsController\bin\x86\Release\LOG.dll
+D:\tfs\联网系统\Dev\DEP\src\bsController\bin\x86\Release\Model.dll
+D:\tfs\联网系统\Dev\DEP\src\bsController\bin\x86\Release\log4net.dll
+D:\tfs\联网系统\Dev\DEP\src\bsController\bin\x86\Release\Extra.pdb
+D:\tfs\联网系统\Dev\DEP\src\bsController\bin\x86\Release\fnBusinessServer.pdb
+D:\tfs\联网系统\Dev\DEP\src\bsController\bin\x86\Release\fnClientComm.pdb
+D:\tfs\联网系统\Dev\DEP\src\bsController\bin\x86\Release\fnGpsComm.pdb
+D:\tfs\联网系统\Dev\DEP\src\bsController\bin\x86\Release\fnLocalDataAccess.pdb
+D:\tfs\联网系统\Dev\DEP\src\bsController\obj\x86\Release\ResolveAssemblyReference.cache
+D:\tfs\联网系统\Dev\DEP\src\bsController\obj\x86\Release\bsController.dll
+D:\tfs\联网系统\Dev\DEP\src\bsController\bin\x86\Release\Oracle.DataAccess.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\成都120调度系统二级联网未包含录音\市县联网最终版\市县联网\市县联网所有统计的表\县交换\src\bsController\bin\x86\Release\bsController.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\成都120调度系统二级联网未包含录音\市县联网最终版\市县联网\市县联网所有统计的表\县交换\src\bsController\bin\x86\Release\COM.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\成都120调度系统二级联网未包含录音\市县联网最终版\市县联网\市县联网所有统计的表\县交换\src\bsController\bin\x86\Release\DAM.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\成都120调度系统二级联网未包含录音\市县联网最终版\市县联网\市县联网所有统计的表\县交换\src\bsController\bin\x86\Release\fnArgs.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\成都120调度系统二级联网未包含录音\市县联网最终版\市县联网\市县联网所有统计的表\县交换\src\bsController\bin\x86\Release\LOG.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\成都120调度系统二级联网未包含录音\市县联网最终版\市县联网\市县联网所有统计的表\县交换\src\bsController\bin\x86\Release\Model.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\成都120调度系统二级联网未包含录音\市县联网最终版\市县联网\市县联网所有统计的表\县交换\src\bsController\bin\x86\Release\Utility.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\成都120调度系统二级联网未包含录音\市县联网最终版\市县联网\市县联网所有统计的表\县交换\src\bsController\bin\x86\Release\log4net.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\成都120调度系统二级联网未包含录音\市县联网最终版\市县联网\市县联网所有统计的表\县交换\src\bsController\bin\x86\Release\COM.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\成都120调度系统二级联网未包含录音\市县联网最终版\市县联网\市县联网所有统计的表\县交换\src\bsController\bin\x86\Release\Utility.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\成都120调度系统二级联网未包含录音\市县联网最终版\市县联网\市县联网所有统计的表\县交换\src\bsController\bin\x86\Release\DAM.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\成都120调度系统二级联网未包含录音\市县联网最终版\市县联网\市县联网所有统计的表\县交换\src\bsController\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\成都120调度系统二级联网未包含录音\市县联网最终版\市县联网\市县联网所有统计的表\县交换\src\bsController\obj\x86\Release\bsController.dll
+E:\朱星汉\市县联网\县交换\src\bsController\obj\x86\Release\ResolveAssemblyReference.cache
+E:\朱星汉\市县联网\县交换\src\bsController\bin\x86\Release\bsController.dll
+E:\朱星汉\市县联网\县交换\src\bsController\bin\x86\Release\COM.dll
+E:\朱星汉\市县联网\县交换\src\bsController\bin\x86\Release\DAM.dll
+E:\朱星汉\市县联网\县交换\src\bsController\bin\x86\Release\fnArgs.dll
+E:\朱星汉\市县联网\县交换\src\bsController\bin\x86\Release\LOG.dll
+E:\朱星汉\市县联网\县交换\src\bsController\bin\x86\Release\Model.dll
+E:\朱星汉\市县联网\县交换\src\bsController\bin\x86\Release\Utility.dll
+E:\朱星汉\市县联网\县交换\src\bsController\bin\x86\Release\log4net.dll
+E:\朱星汉\市县联网\县交换\src\bsController\bin\x86\Release\COM.pdb
+E:\朱星汉\市县联网\县交换\src\bsController\bin\x86\Release\Utility.pdb
+E:\朱星汉\市县联网\县交换\src\bsController\bin\x86\Release\DAM.pdb
+E:\朱星汉\市县联网\县交换\src\bsController\obj\x86\Release\bsController.dll
+E:\120受理调度软件\四川\成都120\市县联网\县交换\src\bsController\bin\x86\Release\bsController.dll
+E:\120受理调度软件\四川\成都120\市县联网\县交换\src\bsController\bin\x86\Release\COM.dll
+E:\120受理调度软件\四川\成都120\市县联网\县交换\src\bsController\bin\x86\Release\DAM.dll
+E:\120受理调度软件\四川\成都120\市县联网\县交换\src\bsController\bin\x86\Release\fnArgs.dll
+E:\120受理调度软件\四川\成都120\市县联网\县交换\src\bsController\bin\x86\Release\LOG.dll
+E:\120受理调度软件\四川\成都120\市县联网\县交换\src\bsController\bin\x86\Release\Model.dll
+E:\120受理调度软件\四川\成都120\市县联网\县交换\src\bsController\bin\x86\Release\Utility.dll
+E:\120受理调度软件\四川\成都120\市县联网\县交换\src\bsController\bin\x86\Release\log4net.dll
+E:\120受理调度软件\四川\成都120\市县联网\县交换\src\bsController\bin\x86\Release\COM.pdb
+E:\120受理调度软件\四川\成都120\市县联网\县交换\src\bsController\bin\x86\Release\Utility.pdb
+E:\120受理调度软件\四川\成都120\市县联网\县交换\src\bsController\bin\x86\Release\DAM.pdb
+E:\120受理调度软件\四川\成都120\市县联网\县交换\src\bsController\obj\x86\Release\ResolveAssemblyReference.cache
+E:\120受理调度软件\四川\成都120\市县联网\县交换\src\bsController\obj\x86\Release\bsController.dll

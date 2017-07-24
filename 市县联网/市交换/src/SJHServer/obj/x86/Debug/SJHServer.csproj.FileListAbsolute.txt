@@ -1,0 +1,200 @@
+E:\Works\二三级联网\市县联网\市交换\src\SJHServer\SJHServer\bin\Debug\SJHServer.exe
+E:\Works\二三级联网\市县联网\市交换\src\SJHServer\SJHServer\bin\Debug\SJHServer.pdb
+E:\Works\二三级联网\市县联网\市交换\src\SJHServer\SJHServer\obj\x86\Debug\SJHServer.csproj.GenerateResource.Cache
+E:\Works\二三级联网\市县联网\市交换\src\SJHServer\SJHServer\obj\x86\Debug\SJHServer.exe
+E:\Works\二三级联网\市县联网\市交换\src\SJHServer\SJHServer\obj\x86\Debug\SJHServer.pdb
+E:\Works\二三级联网\市县联网\市交换\src\SJHServer\SJHServer\bin\Debug\SJHServer.exe.config
+E:\Works\二三级联网\市县联网\市交换\src\SJHServer\SJHServer\obj\x86\Debug\ZIT.SJHServer.UI.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\市县联网姜正军版\市交换\src\SJHServer\bin\Debug\SJHServer.exe.config
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\市县联网姜正军版\市交换\src\SJHServer\obj\x86\Debug\SJHServer.exe
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\市县联网姜正军版\市交换\src\SJHServer\obj\x86\Debug\SJHServer.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\市县联网姜正军版\市交换\src\SJHServer\bin\Debug\SJHServer.exe
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\市县联网姜正军版\市交换\src\SJHServer\bin\Debug\SJHServer.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\市县联网姜正军版\市交换\src\SJHServer\bin\Debug\bsController.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\市县联网姜正军版\市交换\src\SJHServer\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\市县联网姜正军版\市交换\src\SJHServer\bin\Debug\COM.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\市县联网姜正军版\市交换\src\SJHServer\bin\Debug\fnArgs.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\市县联网姜正军版\市交换\src\SJHServer\bin\Debug\fnDataAccess.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\市县联网姜正军版\市交换\src\SJHServer\bin\Debug\LOG.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\市县联网姜正军版\市交换\src\SJHServer\bin\Debug\Utility.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\市县联网姜正军版\市交换\src\SJHServer\bin\Debug\log4net.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\市县联网姜正军版\市交换\src\SJHServer\bin\Debug\bsController.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\市县联网姜正军版\市交换\src\SJHServer\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\市县联网姜正军版\市交换\src\SJHServer\bin\Debug\COM.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\市县联网姜正军版\市交换\src\SJHServer\bin\Debug\fnArgs.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\市县联网姜正军版\市交换\src\SJHServer\bin\Debug\fnDataAccess.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\市县联网姜正军版\市交换\src\SJHServer\bin\Debug\LOG.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\市县联网姜正军版\市交换\src\SJHServer\bin\Debug\Utility.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\市县联网姜正军版\市交换\src\SJHServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\市县联网姜正军版\市交换\src\SJHServer\obj\x86\Debug\SJHServer.frmMain.resources
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\市县联网姜正军版\市交换\src\SJHServer\obj\x86\Debug\ZIT.SJHServer.UI.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\市县联网姜正军版\市交换\src\SJHServer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\市县联网姜正军版\市交换\src\SJHServer\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Works\二三级联网\市县联网\市交换\src\SJHServer\bin\Debug\SJHServer.exe.config
+E:\Works\二三级联网\市县联网\市交换\src\SJHServer\bin\Debug\SJHServer.exe
+E:\Works\二三级联网\市县联网\市交换\src\SJHServer\bin\Debug\SJHServer.pdb
+E:\Works\二三级联网\市县联网\市交换\src\SJHServer\bin\Debug\bsController.dll
+E:\Works\二三级联网\市县联网\市交换\src\SJHServer\bin\Debug\LOG.dll
+E:\Works\二三级联网\市县联网\市交换\src\SJHServer\bin\Debug\Model.dll
+E:\Works\二三级联网\市县联网\市交换\src\SJHServer\bin\Debug\COM.dll
+E:\Works\二三级联网\市县联网\市交换\src\SJHServer\bin\Debug\fnDataAccess.dll
+E:\Works\二三级联网\市县联网\市交换\src\SJHServer\bin\Debug\fnLocalDataAccess.dll
+E:\Works\二三级联网\市县联网\市交换\src\SJHServer\bin\Debug\fnArgs.dll
+E:\Works\二三级联网\市县联网\市交换\src\SJHServer\bin\Debug\Utility.dll
+E:\Works\二三级联网\市县联网\市交换\src\SJHServer\bin\Debug\log4net.dll
+E:\Works\二三级联网\市县联网\市交换\src\SJHServer\bin\Debug\bsController.pdb
+E:\Works\二三级联网\市县联网\市交换\src\SJHServer\bin\Debug\LOG.pdb
+E:\Works\二三级联网\市县联网\市交换\src\SJHServer\bin\Debug\Model.pdb
+E:\Works\二三级联网\市县联网\市交换\src\SJHServer\bin\Debug\COM.pdb
+E:\Works\二三级联网\市县联网\市交换\src\SJHServer\bin\Debug\fnDataAccess.pdb
+E:\Works\二三级联网\市县联网\市交换\src\SJHServer\bin\Debug\fnLocalDataAccess.pdb
+E:\Works\二三级联网\市县联网\市交换\src\SJHServer\bin\Debug\fnArgs.pdb
+E:\Works\二三级联网\市县联网\市交换\src\SJHServer\bin\Debug\Utility.pdb
+E:\Works\二三级联网\市县联网\市交换\src\SJHServer\obj\x86\Debug\SJHServer.csprojResolveAssemblyReference.cache
+E:\Works\二三级联网\市县联网\市交换\src\SJHServer\obj\x86\Debug\ZIT.SJHServer.UI.frmAbout.resources
+E:\Works\二三级联网\市县联网\市交换\src\SJHServer\obj\x86\Debug\ZIT.SJHServer.UI.frmMain.resources
+E:\Works\二三级联网\市县联网\市交换\src\SJHServer\obj\x86\Debug\ZIT.SJHServer.UI.Properties.Resources.resources
+E:\Works\二三级联网\市县联网\市交换\src\SJHServer\obj\x86\Debug\SJHServer.csproj.GenerateResource.Cache
+E:\Works\二三级联网\市县联网\市交换\src\SJHServer\obj\x86\Debug\SJHServer.exe
+E:\Works\二三级联网\市县联网\市交换\src\SJHServer\obj\x86\Debug\SJHServer.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\SJHServer.exe.config
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网所有统计的表\市交换\src\SJHServer\obj\x86\Debug\SJHServer.exe
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网所有统计的表\市交换\src\SJHServer\obj\x86\Debug\SJHServer.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\SJHServer.exe
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\SJHServer.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\bsController.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\LOG.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\COM.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\fnDataAccess.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\fnLocalDataAccess.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\fnArgs.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\Utility.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\log4net.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\bsController.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\LOG.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\COM.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\fnDataAccess.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\fnLocalDataAccess.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\fnArgs.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\Utility.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网所有统计的表\市交换\src\SJHServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网所有统计的表\市交换\src\SJHServer\obj\x86\Debug\ZIT.SJHServer.UI.frmAbout.resources
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网所有统计的表\市交换\src\SJHServer\obj\x86\Debug\ZIT.SJHServer.UI.frmMain.resources
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网所有统计的表\市交换\src\SJHServer\obj\x86\Debug\ZIT.SJHServer.UI.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网所有统计的表\市交换\src\SJHServer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网所有统计的表\市交换\src\SJHServer\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Works\二三级联网\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\SJHServer.exe.config
+E:\Works\二三级联网\市县联网\市县联网所有统计的表\市交换\src\SJHServer\obj\x86\Debug\SJHServer.exe
+E:\Works\二三级联网\市县联网\市县联网所有统计的表\市交换\src\SJHServer\obj\x86\Debug\SJHServer.pdb
+E:\Works\二三级联网\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\SJHServer.exe
+E:\Works\二三级联网\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\SJHServer.pdb
+E:\Works\二三级联网\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\bsController.dll
+E:\Works\二三级联网\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\LOG.dll
+E:\Works\二三级联网\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\Model.dll
+E:\Works\二三级联网\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\fnDataAccess.dll
+E:\Works\二三级联网\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\COM.dll
+E:\Works\二三级联网\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\fnLocalDataAccess.dll
+E:\Works\二三级联网\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\fnArgs.dll
+E:\Works\二三级联网\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\Utility.dll
+E:\Works\二三级联网\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\log4net.dll
+E:\Works\二三级联网\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\bsController.pdb
+E:\Works\二三级联网\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\LOG.pdb
+E:\Works\二三级联网\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\Model.pdb
+E:\Works\二三级联网\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\fnDataAccess.pdb
+E:\Works\二三级联网\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\COM.pdb
+E:\Works\二三级联网\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\fnLocalDataAccess.pdb
+E:\Works\二三级联网\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\fnArgs.pdb
+E:\Works\二三级联网\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\Utility.pdb
+E:\Works\二三级联网\市县联网\市县联网所有统计的表\市交换\src\SJHServer\obj\x86\Debug\SJHServer.csprojResolveAssemblyReference.cache
+E:\Works\二三级联网\市县联网\市县联网所有统计的表\市交换\src\SJHServer\obj\x86\Debug\ZIT.SJHServer.UI.frmAbout.resources
+E:\Works\二三级联网\市县联网\市县联网所有统计的表\市交换\src\SJHServer\obj\x86\Debug\ZIT.SJHServer.UI.frmMain.resources
+E:\Works\二三级联网\市县联网\市县联网所有统计的表\市交换\src\SJHServer\obj\x86\Debug\ZIT.SJHServer.UI.Properties.Resources.resources
+E:\Works\二三级联网\市县联网\市县联网所有统计的表\市交换\src\SJHServer\obj\x86\Debug\SJHServer.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\SJHServer.exe.config
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\obj\x86\Debug\SJHServer.exe
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\obj\x86\Debug\SJHServer.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\SJHServer.exe
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\SJHServer.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\bsController.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\LOG.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\COM.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\fnLocalDataAccess.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\fnDataAccess.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\fnArgs.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\Utility.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\log4net.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\bsController.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\LOG.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\COM.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\fnLocalDataAccess.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\fnDataAccess.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\fnArgs.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\Utility.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\obj\x86\Debug\ZIT.SJHServer.UI.frmAbout.resources
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\obj\x86\Debug\ZIT.SJHServer.UI.frmMain.resources
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\obj\x86\Debug\ZIT.SJHServer.UI.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Works\二三级联网\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\SJHServer.exe.config
+E:\Works\二三级联网\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\obj\x86\Debug\SJHServer.exe
+E:\Works\二三级联网\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\obj\x86\Debug\SJHServer.pdb
+E:\Works\二三级联网\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\SJHServer.exe
+E:\Works\二三级联网\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\SJHServer.pdb
+E:\Works\二三级联网\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\bsController.dll
+E:\Works\二三级联网\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\LOG.dll
+E:\Works\二三级联网\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\Model.dll
+E:\Works\二三级联网\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\fnLocalDataAccess.dll
+E:\Works\二三级联网\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\fnDataAccess.dll
+E:\Works\二三级联网\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\COM.dll
+E:\Works\二三级联网\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\fnArgs.dll
+E:\Works\二三级联网\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\Utility.dll
+E:\Works\二三级联网\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\log4net.dll
+E:\Works\二三级联网\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\bsController.pdb
+E:\Works\二三级联网\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\LOG.pdb
+E:\Works\二三级联网\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\Model.pdb
+E:\Works\二三级联网\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\fnLocalDataAccess.pdb
+E:\Works\二三级联网\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\fnDataAccess.pdb
+E:\Works\二三级联网\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\COM.pdb
+E:\Works\二三级联网\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\fnArgs.pdb
+E:\Works\二三级联网\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\Utility.pdb
+E:\Works\二三级联网\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\obj\x86\Debug\SJHServer.csprojResolveAssemblyReference.cache
+E:\Works\二三级联网\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\obj\x86\Debug\ZIT.SJHServer.UI.frmAbout.resources
+E:\Works\二三级联网\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\obj\x86\Debug\ZIT.SJHServer.UI.frmMain.resources
+E:\Works\二三级联网\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\obj\x86\Debug\ZIT.SJHServer.UI.Properties.Resources.resources
+E:\Works\二三级联网\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\obj\x86\Debug\SJHServer.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\成都120调度系统二级联网未包含录音\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Debug\SJHServer.exe.config
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\成都120调度系统二级联网未包含录音\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\obj\x86\Debug\SJHServer.exe
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\成都120调度系统二级联网未包含录音\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\obj\x86\Debug\SJHServer.pdb
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Debug\SJHServer.exe.config
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Debug\SJHServer.exe
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Debug\SJHServer.pdb
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Debug\bsController.dll
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Debug\LOG.dll
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Debug\Model.dll
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Debug\COM.dll
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Debug\fnLocalDataAccess.dll
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Debug\fnDataAccess.dll
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Debug\fnArgs.dll
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Debug\Utility.dll
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Debug\log4net.dll
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Debug\bsController.pdb
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Debug\LOG.pdb
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Debug\Model.pdb
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Debug\COM.pdb
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Debug\fnLocalDataAccess.pdb
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Debug\fnDataAccess.pdb
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Debug\fnArgs.pdb
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Debug\Utility.pdb
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\obj\x86\Debug\ZIT.SJHServer.UI.frmAbout.resources
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\obj\x86\Debug\ZIT.SJHServer.UI.frmMain.resources
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\obj\x86\Debug\ZIT.SJHServer.UI.Properties.Resources.resources
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\obj\x86\Debug\SJHServer.exe
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\obj\x86\Debug\SJHServer.pdb

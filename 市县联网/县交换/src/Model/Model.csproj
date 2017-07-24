@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{EF3A2351-646D-4133-96BA-0B34EED74893}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ZIT.XJHServer.Model</RootNamespace>
+    <AssemblyName>Model</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\bin\Release\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>none</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <PlatformTarget>x86</PlatformTarget>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <PlatformTarget>x86</PlatformTarget>
+    <OutputPath>bin\x86\Release\</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Oracle.DataAccess, Version=2.112.1.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\3rdParty\Oracle\Oracle.DataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CommonInterface.cs" />
+    <Compile Include="DataExchangeFunction\BLJCXXB.cs" />
+    <Compile Include="DataExchangeFunction\BLJCXXBResp.cs" />
+    <Compile Include="DataExchangeFunction\CallRcordData.cs" />
+    <Compile Include="DataExchangeFunction\CallRcordDataResp.cs" />
+    <Compile Include="DataExchangeFunction\DealData.cs" />
+    <Compile Include="DataExchangeFunction\DealDataResp.cs" />
+    <Compile Include="DataExchangeFunction\DispatchStationInfoData.cs" />
+    <Compile Include="DataExchangeFunction\DispatchStationInfoDataResp.cs" />
+    <Compile Include="DataExchangeFunction\DispatchTaskRequestReinforcement.cs" />
+    <Compile Include="DataExchangeFunction\DispatchTaskRequestReinforcementResp.cs" />
+    <Compile Include="DataExchangeFunction\DispatchVehicleData.cs" />
+    <Compile Include="DataExchangeFunction\DispatchVehicleDataResp.cs" />
+    <Compile Include="DataExchangeFunction\Dqclztxxb.cs" />
+    <Compile Include="DataExchangeFunction\DXSGB.cs" />
+    <Compile Include="DataExchangeFunction\DXSGBResp.cs" />
+    <Compile Include="DataExchangeFunction\GetReportAlarmLocationInfo.cs" />
+    <Compile Include="DataExchangeFunction\GetReportAlarmLocationInfoResp.cs" />
+    <Compile Include="DataExchangeFunction\HJQYB.cs" />
+    <Compile Include="DataExchangeFunction\HJQYBResp.cs" />
+    <Compile Include="DataExchangeFunction\LargeSlipData.cs" />
+    <Compile Include="DataExchangeFunction\LargeSlipDataResp.cs" />
+    <Compile Include="DataExchangeFunction\LDLXB.cs" />
+    <Compile Include="DataExchangeFunction\LDLXBResp.cs" />
+    <Compile Include="DataExchangeFunction\LWBLGXTBDELB.cs" />
+    <Compile Include="DataExchangeFunction\LWBLGXTBDELBResp.cs" />
+    <Compile Include="DataExchangeFunction\LWBLTBDELB.cs" />
+    <Compile Include="DataExchangeFunction\LWBLTBDELBResp.cs" />
+    <Compile Include="DataExchangeFunction\PVRelation.cs" />
+    <Compile Include="DataExchangeFunction\PVRelationResp.cs" />
+    <Compile Include="DataExchangeFunction\SuffererCaseHistoryData.cs" />
+    <Compile Include="DataExchangeFunction\SuffererCaseHistoryDataResp.cs" />
+    <Compile Include="DataExchangeFunction\SuffererData.cs" />
+    <Compile Include="DataExchangeFunction\SuffererDataResp.cs" />
+    <Compile Include="DataExchangeFunction\SysUserData.cs" />
+    <Compile Include="DataExchangeFunction\SysUserDataResp.cs" />
+    <Compile Include="DataExchangeFunction\UnitInfoData.cs" />
+    <Compile Include="DataExchangeFunction\UnitInfoDataResp.cs" />
+    <Compile Include="DataExchangeFunction\VehicleData.cs" />
+    <Compile Include="DataExchangeFunction\VehicleDataResp.cs" />
+    <Compile Include="DataExchangeFunction\Web_MedicalProject.cs" />
+    <Compile Include="DataExchangeFunction\Web_MedicalProjectResp.cs" />
+    <Compile Include="DataExchangeFunction\Web_MedicalProjectValue.cs" />
+    <Compile Include="DataExchangeFunction\Web_MedicalProjectValueResp.cs" />
+    <Compile Include="DataExchangeFunction\Web_MedicalRecords.cs" />
+    <Compile Include="DataExchangeFunction\Web_MedicalRecordsResp.cs" />
+    <Compile Include="DataExchangeFunction\Web_MedicalStatistics.cs" />
+    <Compile Include="DataExchangeFunction\Web_MedicalStatisticsResp.cs" />
+    <Compile Include="DataExchangeFunction\ZBYXXB.cs" />
+    <Compile Include="DataExchangeFunction\ZBYXXBResp.cs" />
+    <Compile Include="DataExchangeFunction\ZZB.cs" />
+    <Compile Include="DataExchangeFunction\ZZBResp.cs" />
+    <Compile Include="DEPShakeHand.cs" />
+    <Compile Include="DispatchFunction\GetVehicleStatus.cs" />
+    <Compile Include="DispatchFunction\VehicleSateData.cs" />
+    <Compile Include="DispatchFunction\VehicleStatus.cs" />
+    <Compile Include="DispatchFunction\VehicleStatusResp.cs" />
+    <Compile Include="DWLWSTATE.cs" />
+    <Compile Include="GetFZXDWZT.cs" />
+    <Compile Include="GGAnswer.cs" />
+    <Compile Include="GGInfo.cs" />
+    <Compile Include="HuaiAnFunction\DispatchTaskSelectData.cs" />
+    <Compile Include="HuaiAnFunction\DispatchTaskSelectDataResp.cs" />
+    <Compile Include="PositioningFunction\StopTrack.cs" />
+    <Compile Include="ReSendMsg.cs" />
+    <Compile Include="SubCenterBssHandShark.cs" />
+    <Compile Include="SubCenterHandshake.cs" />
+    <Compile Include="HuaiAnFunction\DispatchTaskNoAnswer.cs" />
+    <Compile Include="HuaiAnFunction\DispatchTaskSingle.cs" />
+    <Compile Include="HuaiAnFunction\DispatchTaskUpdateFeedback.cs" />
+    <Compile Include="HuaiAnFunction\SubCenterState.cs" />
+    <Compile Include="ParameterSql.cs" />
+    <Compile Include="PositioningFunction\GetTrackData.cs" />
+    <Compile Include="PositioningFunction\GetVehiclePosition.cs" />
+    <Compile Include="PositioningFunction\GetVehiclePositionResp.cs" />
+    <Compile Include="PositioningFunction\LocationData.cs" />
+    <Compile Include="PositioningFunction\Monitor.cs" />
+    <Compile Include="PositioningFunction\MonitorData.cs" />
+    <Compile Include="PositioningFunction\MonitorResp.cs" />
+    <Compile Include="PositioningFunction\WithdrawMonitor.cs" />
+    <Compile Include="PositioningFunction\WithdrawMonitorResp.cs" />
+    <Compile Include="SubordinateStatus.cs" />
+    <Compile Include="SystemFunction\ConnectServer.cs" />
+    <Compile Include="SystemFunction\ConnectServerResp.cs" />
+    <Compile Include="LocationInfo.cs" />
+    <Compile Include="ShakeHand.cs" />
+    <Compile Include="SystemFunction\LoginServer.cs" />
+    <Compile Include="SystemFunction\LoginServerResp.cs" />
+    <Compile Include="SystemFunction\LogoutServer.cs" />
+    <Compile Include="SystemFunction\LogoutServerResp.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SysAgrs.cs" />
+    <Compile Include="TCPDrainage.cs" />
+    <Compile Include="TUnit.cs" />
+    <Compile Include="UnitInfo.cs" />
+    <Compile Include="GpsUnitCode.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

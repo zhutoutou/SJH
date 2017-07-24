@@ -1,0 +1,12 @@
+D:\tfs\联网系统\Dev\DEP\bin\Release\fnDataAccess.dll
+D:\tfs\联网系统\Dev\DEP\bin\Release\fnDataAccess.pdb
+D:\tfs\联网系统\Dev\DEP\src\fnDataAccess\obj\Release\ResolveAssemblyReference.cache
+D:\tfs\联网系统\Dev\DEP\src\fnDataAccess\obj\Release\fnDataAccess.dll
+D:\tfs\联网系统\Dev\DEP\src\fnDataAccess\obj\Release\fnDataAccess.pdb
+D:\tfs\联网系统\Dev\DEP\src\fnDataAccess\bin\Release\fnDataAccess.dll
+D:\tfs\联网系统\Dev\DEP\src\fnDataAccess\bin\Release\fnDataAccess.pdb
+D:\tfs\联网系统\Dev\DEP\src\fnDataAccess\bin\Release\fnArgs.dll
+D:\tfs\联网系统\Dev\DEP\src\fnDataAccess\bin\Release\LOG.dll
+D:\tfs\联网系统\Dev\DEP\src\fnDataAccess\bin\Release\Model.dll
+D:\tfs\联网系统\Dev\DEP\src\fnDataAccess\bin\Release\log4net.dll
+D:\tfs\联网系统\Dev\DEP\src\fnDataAccess\bin\Release\Oracle.DataAccess.dll

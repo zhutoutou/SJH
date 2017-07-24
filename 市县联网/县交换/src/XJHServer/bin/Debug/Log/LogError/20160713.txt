@@ -1,0 +1,451 @@
+[2016-07-13 15:59:32,484] 线程:[6136]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.SendMessage(String strMsg) in E:\朱星汉\市县联网\县交换\src\bsController\SJHServer\UploadServer.cs:line 349
+[2016-07-13 15:59:32,546] 线程:[16072]  
+System.TimeoutException: The host failed to connect. Timeout occured.
+   at ZIT.Comm.Client.Tcp.TcpHelper.ConnectToServer(EndPoint endPoint, Int32 timeoutMs) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\Tcp\TcpHelper.cs:line 41
+   at ZIT.Comm.Client.Tcp.ScsTcpClient.CreateCommunicationChannel() in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\Tcp\ScsTcpClient.cs:line 33
+   at ZIT.Comm.Client.ScsClientBase.Connect() in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 127
+   at ZIT.XJHServer.bsController.SJHServer.ExchangeServer.Start() in E:\朱星汉\市县联网\县交换\src\bsController\SJHServer\ExchangeServer.cs:line 86
+   at ZIT.XJHServer.bsController.Controller.StartService() in E:\朱星汉\市县联网\县交换\src\bsController\Controller.cs:line 119
+[2016-07-13 15:59:32,578] 线程:[16072]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.ExchangeServer.SendMessage(String strMsg) in E:\朱星汉\市县联网\县交换\src\bsController\SJHServer\ExchangeServer.cs:line 261
+[2016-07-13 16:00:40,437] 线程:[16072]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.ExchangeServer.SendMessage(String strMsg) in E:\朱星汉\市县联网\县交换\src\bsController\SJHServer\ExchangeServer.cs:line 261
+[2016-07-13 16:00:40,437] 线程:[6136]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.SendMessage(String strMsg) in E:\朱星汉\市县联网\县交换\src\bsController\SJHServer\UploadServer.cs:line 349
+[2016-07-13 16:01:02,250] 线程:[16072]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.ExchangeServer.SendMessage(String strMsg) in E:\朱星汉\市县联网\县交换\src\bsController\SJHServer\ExchangeServer.cs:line 261
+[2016-07-13 16:01:02,250] 线程:[6136]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.SendMessage(String strMsg) in E:\朱星汉\市县联网\县交换\src\bsController\SJHServer\UploadServer.cs:line 349
+[2016-07-13 16:01:12,265] 线程:[6136]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.SendMessage(String strMsg) in E:\朱星汉\市县联网\县交换\src\bsController\SJHServer\UploadServer.cs:line 349
+[2016-07-13 16:01:12,265] 线程:[16072]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.ExchangeServer.SendMessage(String strMsg) in E:\朱星汉\市县联网\县交换\src\bsController\SJHServer\ExchangeServer.cs:line 261
+[2016-07-13 16:01:30,343] 线程:[16072]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.ExchangeServer.SendMessage(String strMsg) in E:\朱星汉\市县联网\县交换\src\bsController\SJHServer\ExchangeServer.cs:line 261
+[2016-07-13 16:01:30,359] 线程:[6136]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.SendMessage(String strMsg) in E:\朱星汉\市县联网\县交换\src\bsController\SJHServer\UploadServer.cs:line 349
+[2016-07-13 16:01:40,375] 线程:[16072]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.ExchangeServer.SendMessage(String strMsg) in E:\朱星汉\市县联网\县交换\src\bsController\SJHServer\ExchangeServer.cs:line 261
+[2016-07-13 16:01:40,375] 线程:[6136]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.SendMessage(String strMsg) in E:\朱星汉\市县联网\县交换\src\bsController\SJHServer\UploadServer.cs:line 349
+[2016-07-13 16:02:00,796] 线程:[6136]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.SendMessage(String strMsg) in E:\朱星汉\市县联网\县交换\src\bsController\SJHServer\UploadServer.cs:line 349
+[2016-07-13 16:02:00,796] 线程:[16072]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.ExchangeServer.SendMessage(String strMsg) in E:\朱星汉\市县联网\县交换\src\bsController\SJHServer\ExchangeServer.cs:line 261
+[2016-07-13 16:03:31,593] 线程:[6136]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.SendMessage(String strMsg) in E:\朱星汉\市县联网\县交换\src\bsController\SJHServer\UploadServer.cs:line 349
+[2016-07-13 16:05:24,312] 线程:[6136]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.SendMessage(String strMsg)
+[2016-07-13 16:05:34,921] 线程:[6136]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.SendMessage(String strMsg)
+[2016-07-13 16:05:44,906] 线程:[16072]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.ExchangeServer.SendMessage(String strMsg)
+[2016-07-13 16:05:45,406] 线程:[6136]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.SendMessage(String strMsg)
+[2016-07-13 16:05:58,406] 线程:[6136]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.SendMessage(String strMsg)
+[2016-07-13 16:06:13,312] 线程:[6136]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.SendMessage(String strMsg)
+[2016-07-13 16:06:13,312] 线程:[16072]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.ExchangeServer.SendMessage(String strMsg)
+[2016-07-13 16:06:23,328] 线程:[6136]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.SendMessage(String strMsg)
+[2016-07-13 16:06:23,328] 线程:[16072]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.ExchangeServer.SendMessage(String strMsg)
+[2016-07-13 16:06:37,578] 线程:[16072]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.ExchangeServer.SendMessage(String strMsg)
+[2016-07-13 16:06:37,578] 线程:[6136]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.SendMessage(String strMsg)
+[2016-07-13 16:06:45,765] 线程:[6936]  
+System.Data.OracleClient.OracleException (0x80131938): ORA-12154: TNS: 无法解析指定的连接标识符
+
+   at ZIT.XJHServer.fnDataAccess.DataSync.Oracle.GetData.GetUnitInfoData() in E:\朱星汉\市县联网\县交换\src\fnDataAccess\DataSync\Oracle\GetData.cs:line 669
+   at ZIT.XJHServer.bsController.DataUpload.UploadData.ScanOnTime()
+[2016-07-13 16:06:55,984] 线程:[16072]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.ExchangeServer.SendMessage(String strMsg)
+[2016-07-13 16:06:55,984] 线程:[6136]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.SendMessage(String strMsg)
+[2016-07-13 16:07:36,609] 线程:[16072]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.ExchangeServer.SendMessage(String strMsg)
+[2016-07-13 16:07:36,609] 线程:[6136]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.SendMessage(String strMsg)
+[2016-07-13 16:07:52,171] 线程:[6136]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.SendMessage(String strMsg)
+[2016-07-13 16:07:52,171] 线程:[16072]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.ExchangeServer.SendMessage(String strMsg)
+[2016-07-13 16:08:01,187] 线程:[6936]  
+System.Data.OracleClient.OracleException (0x80131938): ORA-12154: TNS: 无法解析指定的连接标识符
+
+   at ZIT.XJHServer.fnDataAccess.DataSync.Oracle.GetData.GetVehicleData() in E:\朱星汉\市县联网\县交换\src\fnDataAccess\DataSync\Oracle\GetData.cs:line 58
+   at ZIT.XJHServer.bsController.DataUpload.UploadData.ScanOnTime()
+[2016-07-13 16:08:01,218] 线程:[6936]  
+System.Data.OracleClient.OracleException (0x80131938): ORA-12154: TNS: 无法解析指定的连接标识符
+
+   at ZIT.XJHServer.fnDataAccess.DataSync.Oracle.GetData.GetSysUserData() in E:\朱星汉\市县联网\县交换\src\fnDataAccess\DataSync\Oracle\GetData.cs:line 115
+   at ZIT.XJHServer.bsController.DataUpload.UploadData.ScanOnTime()
+[2016-07-13 16:08:01,250] 线程:[6936]  
+System.Data.OracleClient.OracleException (0x80131938): ORA-12154: TNS: 无法解析指定的连接标识符
+
+   at ZIT.XJHServer.fnDataAccess.DataSync.Oracle.GetData.GetCallRcordData() in E:\朱星汉\市县联网\县交换\src\fnDataAccess\DataSync\Oracle\GetData.cs:line 629
+   at ZIT.XJHServer.bsController.DataUpload.UploadData.ScanOnTime()
+[2016-07-13 16:08:06,281] 线程:[6136]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.SendMessage(String strMsg)
+[2016-07-13 16:08:06,281] 线程:[16072]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.ExchangeServer.SendMessage(String strMsg)
+[2016-07-13 16:08:21,000] 线程:[16072]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.ExchangeServer.SendMessage(String strMsg)
+[2016-07-13 16:08:21,000] 线程:[6136]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.SendMessage(String strMsg)
+[2016-07-13 16:08:48,812] 线程:[6136]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.SendMessage(String strMsg)
+[2016-07-13 16:08:48,812] 线程:[16072]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.ExchangeServer.SendMessage(String strMsg)
+[2016-07-13 16:09:00,078] 线程:[16072]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.ExchangeServer.SendMessage(String strMsg)
+[2016-07-13 16:09:00,078] 线程:[6136]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.SendMessage(String strMsg)
+[2016-07-13 16:09:10,484] 线程:[6136]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.SendMessage(String strMsg)
+[2016-07-13 16:09:10,484] 线程:[16072]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.ExchangeServer.SendMessage(String strMsg)
+[2016-07-13 16:09:20,843] 线程:[6136]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.SendMessage(String strMsg)
+[2016-07-13 16:09:21,640] 线程:[16072]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.ExchangeServer.SendMessage(String strMsg)
+[2016-07-13 16:09:34,296] 线程:[6136]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.SendMessage(String strMsg)
+[2016-07-13 16:09:34,781] 线程:[16072]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.ExchangeServer.SendMessage(String strMsg)
+[2016-07-13 16:09:45,421] 线程:[16072]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.ExchangeServer.SendMessage(String strMsg)
+[2016-07-13 16:09:45,421] 线程:[6136]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.SendMessage(String strMsg)
+[2016-07-13 16:09:55,984] 线程:[6136]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.SendMessage(String strMsg)
+[2016-07-13 16:09:55,984] 线程:[16072]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.ExchangeServer.SendMessage(String strMsg)
+[2016-07-13 16:10:04,718] 线程:[6936]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.SendMessage(String strMsg)
+[2016-07-13 16:10:08,234] 线程:[16072]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.ExchangeServer.SendMessage(String strMsg)
+[2016-07-13 16:10:08,234] 线程:[6136]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.SendMessage(String strMsg)
+[2016-07-13 16:10:37,781] 线程:[16072]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.ExchangeServer.SendMessage(String strMsg)
+[2016-07-13 16:10:37,781] 线程:[6136]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.SendMessage(String strMsg)
+[2016-07-13 16:11:11,718] 线程:[6136]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.SendMessage(String strMsg)
+[2016-07-13 16:11:17,500] 线程:[16072]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.ExchangeServer.SendMessage(String strMsg)
+[2016-07-13 16:11:24,046] 线程:[6136]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.SendMessage(String strMsg)
+[2016-07-13 16:11:28,328] 线程:[16072]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.ExchangeServer.SendMessage(String strMsg)
+[2016-07-13 16:11:35,390] 线程:[6136]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.SendMessage(String strMsg)
+[2016-07-13 16:11:38,343] 线程:[16072]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.ExchangeServer.SendMessage(String strMsg)
+[2016-07-13 16:11:45,390] 线程:[6136]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.SendMessage(String strMsg)
+[2016-07-13 16:11:48,343] 线程:[16072]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.ExchangeServer.SendMessage(String strMsg)
+[2016-07-13 16:11:55,406] 线程:[6136]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.SendMessage(String strMsg)
+[2016-07-13 16:12:06,265] 线程:[6136]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.SendMessage(String strMsg)
+[2016-07-13 16:12:11,718] 线程:[16072]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.ExchangeServer.SendMessage(String strMsg)
+[2016-07-13 16:12:22,125] 线程:[6136]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.SendMessage(String strMsg)
+[2016-07-13 16:12:32,140] 线程:[6136]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.SendMessage(String strMsg)
+[2016-07-13 16:12:33,953] 线程:[16072]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.ExchangeServer.SendMessage(String strMsg)
+[2016-07-13 16:12:42,140] 线程:[6136]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.SendMessage(String strMsg)
+[2016-07-13 16:13:03,828] 线程:[6136]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.SendMessage(String strMsg)
+[2016-07-13 16:13:13,828] 线程:[16072]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.ExchangeServer.SendMessage(String strMsg)
+[2016-07-13 16:13:13,828] 线程:[6136]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.SendMessage(String strMsg)
+[2016-07-13 16:13:23,843] 线程:[16072]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.ExchangeServer.SendMessage(String strMsg)
+[2016-07-13 16:13:23,843] 线程:[6136]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.SendMessage(String strMsg)
+[2016-07-13 16:13:39,906] 线程:[6136]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.SendMessage(String strMsg)
+[2016-07-13 16:13:50,093] 线程:[6136]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.SendMessage(String strMsg)
+[2016-07-13 16:14:02,625] 线程:[6136]  
+ZIT.Comm.Communication.CommunicationStateException: Client is not connected to the server.
+   at ZIT.Comm.Client.ScsClientBase.SendMessage(String message) in E:\朱星汉\市县联网\县交换\src\COM\Comm\Client\ScsClientBase.cs:line 167
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.SendMessage(String strMsg)
+[2016-07-13 16:15:36,906] 线程:[13252] The ConnectionString property has not been initialized. 
+System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at System.Data.OracleClient.OracleConnection.PermissionDemand()
+   at System.Data.OracleClient.OracleConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.OracleClient.OracleConnection.Open()
+   at ZIT.XJHServer.fnDataAccess.DBHelperOracle.ExecuteSql(String SQLString)
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.ReSendMsg_Thread(Object e)
+[2016-07-13 16:15:41,906] 线程:[13252] The ConnectionString property has not been initialized. 
+System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at System.Data.OracleClient.OracleConnection.PermissionDemand()
+   at System.Data.OracleClient.OracleConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.OracleClient.OracleConnection.Open()
+   at ZIT.XJHServer.fnDataAccess.DBHelperOracle.ExecuteSql(String SQLString)
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.ReSendMsg_Thread(Object e)
+[2016-07-13 16:15:53,843] 线程:[13252] The ConnectionString property has not been initialized. 
+System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at System.Data.OracleClient.OracleConnection.PermissionDemand()
+   at System.Data.OracleClient.OracleConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.OracleClient.OracleConnection.Open()
+   at ZIT.XJHServer.fnDataAccess.DBHelperOracle.ExecuteSql(String SQLString)
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.ReSendMsg_Thread(Object e)
+[2016-07-13 16:15:58,859] 线程:[13252] The ConnectionString property has not been initialized. 
+System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at System.Data.OracleClient.OracleConnection.PermissionDemand()
+   at System.Data.OracleClient.OracleConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.OracleClient.OracleConnection.Open()
+   at ZIT.XJHServer.fnDataAccess.DBHelperOracle.ExecuteSql(String SQLString)
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.ReSendMsg_Thread(Object e)
+[2016-07-13 16:16:04,343] 线程:[13252] The ConnectionString property has not been initialized. 
+System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at System.Data.OracleClient.OracleConnection.PermissionDemand()
+   at System.Data.OracleClient.OracleConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.OracleClient.OracleConnection.Open()
+   at ZIT.XJHServer.fnDataAccess.DBHelperOracle.ExecuteSql(String SQLString)
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.ReSendMsg_Thread(Object e)
+[2016-07-13 16:16:09,359] 线程:[13252] The ConnectionString property has not been initialized. 
+System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at System.Data.OracleClient.OracleConnection.PermissionDemand()
+   at System.Data.OracleClient.OracleConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.OracleClient.OracleConnection.Open()
+   at ZIT.XJHServer.fnDataAccess.DBHelperOracle.ExecuteSql(String SQLString)
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.ReSendMsg_Thread(Object e)
+[2016-07-13 16:16:16,921] 线程:[13252] The ConnectionString property has not been initialized. 
+System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at System.Data.OracleClient.OracleConnection.PermissionDemand()
+   at System.Data.OracleClient.OracleConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.OracleClient.OracleConnection.Open()
+   at ZIT.XJHServer.fnDataAccess.DBHelperOracle.ExecuteSql(String SQLString)
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.ReSendMsg_Thread(Object e)
+[2016-07-13 16:16:44,171] 线程:[13252] The ConnectionString property has not been initialized. 
+System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at System.Data.OracleClient.OracleConnection.PermissionDemand()
+   at System.Data.OracleClient.OracleConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.OracleClient.OracleConnection.Open()
+   at ZIT.XJHServer.fnDataAccess.DBHelperOracle.ExecuteSql(String SQLString)
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.ReSendMsg_Thread(Object e)
+[2016-07-13 16:17:27,921] 线程:[13252] The ConnectionString property has not been initialized. 
+System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at System.Data.OracleClient.OracleConnection.PermissionDemand()
+   at System.Data.OracleClient.OracleConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.OracleClient.OracleConnection.Open()
+   at ZIT.XJHServer.fnDataAccess.DBHelperOracle.ExecuteSql(String SQLString)
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.ReSendMsg_Thread(Object e)
+[2016-07-13 16:17:44,281] 线程:[13252] The ConnectionString property has not been initialized. 
+System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at System.Data.OracleClient.OracleConnection.PermissionDemand()
+   at System.Data.OracleClient.OracleConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.OracleClient.OracleConnection.Open()
+   at ZIT.XJHServer.fnDataAccess.DBHelperOracle.ExecuteSql(String SQLString)
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.ReSendMsg_Thread(Object e)
+[2016-07-13 16:17:56,968] 线程:[13252] The ConnectionString property has not been initialized. 
+System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at System.Data.OracleClient.OracleConnection.PermissionDemand()
+   at System.Data.OracleClient.OracleConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.OracleClient.OracleConnection.Open()
+   at ZIT.XJHServer.fnDataAccess.DBHelperOracle.ExecuteSql(String SQLString)
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.ReSendMsg_Thread(Object e)
+[2016-07-13 16:18:04,812] 线程:[13252] The ConnectionString property has not been initialized. 
+System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at System.Data.OracleClient.OracleConnection.PermissionDemand()
+   at System.Data.OracleClient.OracleConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.OracleClient.OracleConnection.Open()
+   at ZIT.XJHServer.fnDataAccess.DBHelperOracle.ExecuteSql(String SQLString)
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.ReSendMsg_Thread(Object e)
+[2016-07-13 16:19:44,281] 线程:[13252] The ConnectionString property has not been initialized. 
+System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at System.Data.OracleClient.OracleConnection.PermissionDemand()
+   at System.Data.OracleClient.OracleConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.OracleClient.OracleConnection.Open()
+   at ZIT.XJHServer.fnDataAccess.DBHelperOracle.ExecuteSql(String SQLString)
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.ReSendMsg_Thread(Object e)
+[2016-07-13 16:20:22,812] 线程:[13252] The ConnectionString property has not been initialized. 
+System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at System.Data.OracleClient.OracleConnection.PermissionDemand()
+   at System.Data.OracleClient.OracleConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.OracleClient.OracleConnection.Open()
+   at ZIT.XJHServer.fnDataAccess.DBHelperOracle.ExecuteSql(String SQLString)
+   at ZIT.XJHServer.bsController.SJHServer.UploadServer.ReSendMsg_Thread(Object e)

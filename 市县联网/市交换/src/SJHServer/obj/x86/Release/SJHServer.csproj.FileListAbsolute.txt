@@ -1,0 +1,97 @@
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\成都120调度系统二级联网未包含录音\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Release\SJHServer.exe.config
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\成都120调度系统二级联网未包含录音\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Release\SJHServer.exe
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\成都120调度系统二级联网未包含录音\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Release\SJHServer.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\成都120调度系统二级联网未包含录音\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Release\bsController.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\成都120调度系统二级联网未包含录音\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Release\LOG.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\成都120调度系统二级联网未包含录音\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Release\Model.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\成都120调度系统二级联网未包含录音\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Release\COM.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\成都120调度系统二级联网未包含录音\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Release\fnArgs.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\成都120调度系统二级联网未包含录音\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Release\fnLocalDataAccess.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\成都120调度系统二级联网未包含录音\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Release\fnDataAccess.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\成都120调度系统二级联网未包含录音\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Release\Utility.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\成都120调度系统二级联网未包含录音\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Release\log4net.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\成都120调度系统二级联网未包含录音\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Release\COM.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\成都120调度系统二级联网未包含录音\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Release\fnLocalDataAccess.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\成都120调度系统二级联网未包含录音\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Release\Utility.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\成都120调度系统二级联网未包含录音\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\成都120调度系统二级联网未包含录音\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\obj\x86\Release\ZIT.SJHServer.UI.frmAbout.resources
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\成都120调度系统二级联网未包含录音\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\obj\x86\Release\ZIT.SJHServer.UI.frmMain.resources
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\成都120调度系统二级联网未包含录音\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\obj\x86\Release\ZIT.SJHServer.UI.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\成都120调度系统二级联网未包含录音\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\成都120调度系统二级联网未包含录音\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\成都120调度系统二级联网未包含录音\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\obj\x86\Release\SJHServer.exe
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\成都120调度系统二级联网未包含录音\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\obj\x86\Release\SJHServer.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\2015\二级联网\成都版本二级联网\成都120调度系统最新源码\成都120调度系统二级联网未包含录音\成都出差所有地方最终版本\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\bin\Release\SJHServer.exe.config
+C:\Documents and Settings\Administrator\桌面\ZXH\2015\二级联网\成都版本二级联网\成都120调度系统最新源码\成都120调度系统二级联网未包含录音\成都出差所有地方最终版本\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\obj\x86\Release\SJHServer.exe
+C:\Documents and Settings\Administrator\桌面\ZXH\2015\二级联网\成都版本二级联网\成都120调度系统最新源码\成都120调度系统二级联网未包含录音\成都出差所有地方最终版本\市县联网最终版\市县联网\市县联网所有统计的表\市交换\src\SJHServer\obj\x86\Release\SJHServer.pdb
+E:\120受理调度软件\四川\成都120\市县联网2017\市县联网\市交换\src\SJHServer\bin\Release\SJHServer.exe.config
+E:\120受理调度软件\四川\成都120\市县联网2017\市县联网\市交换\src\SJHServer\obj\x86\Release\SJHServer.exe
+E:\120受理调度软件\四川\成都120\市县联网2017\市县联网\市交换\src\SJHServer\obj\x86\Release\SJHServer.pdb
+E:\120受理调度软件\四川\成都120\市县联网2017\市县联网\市交换\src\SJHServer\bin\Release\SJHServer.exe
+E:\120受理调度软件\四川\成都120\市县联网2017\市县联网\市交换\src\SJHServer\bin\Release\SJHServer.pdb
+E:\120受理调度软件\四川\成都120\市县联网2017\市县联网\市交换\src\SJHServer\bin\Release\bsController.dll
+E:\120受理调度软件\四川\成都120\市县联网2017\市县联网\市交换\src\SJHServer\bin\Release\LOG.dll
+E:\120受理调度软件\四川\成都120\市县联网2017\市县联网\市交换\src\SJHServer\bin\Release\Model.dll
+E:\120受理调度软件\四川\成都120\市县联网2017\市县联网\市交换\src\SJHServer\bin\Release\COM.dll
+E:\120受理调度软件\四川\成都120\市县联网2017\市县联网\市交换\src\SJHServer\bin\Release\fnDataAccess.dll
+E:\120受理调度软件\四川\成都120\市县联网2017\市县联网\市交换\src\SJHServer\bin\Release\fnArgs.dll
+E:\120受理调度软件\四川\成都120\市县联网2017\市县联网\市交换\src\SJHServer\bin\Release\fnLocalDataAccess.dll
+E:\120受理调度软件\四川\成都120\市县联网2017\市县联网\市交换\src\SJHServer\bin\Release\Utility.dll
+E:\120受理调度软件\四川\成都120\市县联网2017\市县联网\市交换\src\SJHServer\bin\Release\log4net.dll
+E:\120受理调度软件\四川\成都120\市县联网2017\市县联网\市交换\src\SJHServer\bin\Release\COM.pdb
+E:\120受理调度软件\四川\成都120\市县联网2017\市县联网\市交换\src\SJHServer\bin\Release\fnLocalDataAccess.pdb
+E:\120受理调度软件\四川\成都120\市县联网2017\市县联网\市交换\src\SJHServer\bin\Release\Utility.pdb
+E:\120受理调度软件\四川\成都120\市县联网2017\市县联网\市交换\src\SJHServer\obj\x86\Release\ResolveAssemblyReference.cache
+E:\120受理调度软件\四川\成都120\市县联网2017\市县联网\市交换\src\SJHServer\obj\x86\Release\ZIT.SJHServer.UI.frmAbout.resources
+E:\120受理调度软件\四川\成都120\市县联网2017\市县联网\市交换\src\SJHServer\obj\x86\Release\ZIT.SJHServer.UI.frmMain.resources
+E:\120受理调度软件\四川\成都120\市县联网2017\市县联网\市交换\src\SJHServer\obj\x86\Release\ZIT.SJHServer.UI.Properties.Resources.resources
+E:\120受理调度软件\四川\成都120\市县联网2017\市县联网\市交换\src\SJHServer\obj\x86\Release\GenerateResource.read.1.tlog
+E:\120受理调度软件\四川\成都120\市县联网2017\市县联网\市交换\src\SJHServer\obj\x86\Release\GenerateResource.write.1.tlog
+E:\120受理调度软件\四川\成都120\bak\市县联网20170627\市县联网\市交换\src\SJHServer\bin\Release\SJHServer.exe.config
+E:\120受理调度软件\四川\成都120\bak\市县联网20170627\市县联网\市交换\src\SJHServer\obj\x86\Release\SJHServer.exe
+E:\120受理调度软件\四川\成都120\bak\市县联网20170627\市县联网\市交换\src\SJHServer\obj\x86\Release\SJHServer.pdb
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Release\SJHServer.exe.config
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Release\SJHServer.exe
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Release\SJHServer.pdb
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Release\bsController.dll
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Release\LOG.dll
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Release\Model.dll
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Release\COM.dll
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Release\fnLocalDataAccess.dll
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Release\fnDataAccess.dll
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Release\fnArgs.dll
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Release\Utility.dll
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Release\log4net.dll
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Release\COM.pdb
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Release\fnLocalDataAccess.pdb
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Release\Utility.pdb
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\obj\x86\Release\ResolveAssemblyReference.cache
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\obj\x86\Release\ZIT.SJHServer.UI.frmAbout.resources
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\obj\x86\Release\ZIT.SJHServer.UI.frmMain.resources
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\obj\x86\Release\ZIT.SJHServer.UI.Properties.Resources.resources
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\obj\x86\Release\GenerateResource.read.1.tlog
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\obj\x86\Release\GenerateResource.write.1.tlog
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\obj\x86\Release\SJHServer.exe
+E:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\obj\x86\Release\SJHServer.pdb
+D:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Release\SJHServer.exe.config
+D:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\obj\x86\Release\SJHServer.exe
+D:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\obj\x86\Release\SJHServer.pdb
+D:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Release\SJHServer.exe
+D:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Release\SJHServer.pdb
+D:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Release\bsController.dll
+D:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Release\LOG.dll
+D:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Release\Model.dll
+D:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Release\fnArgs.dll
+D:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Release\fnDataAccess.dll
+D:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Release\fnLocalDataAccess.dll
+D:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Release\COM.dll
+D:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Release\Utility.dll
+D:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Release\log4net.dll
+D:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Release\fnLocalDataAccess.pdb
+D:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Release\COM.pdb
+D:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\bin\Release\Utility.pdb
+D:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\obj\x86\Release\SJHServer.csprojResolveAssemblyReference.cache
+D:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\obj\x86\Release\ZIT.SJHServer.UI.frmAbout.resources
+D:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\obj\x86\Release\ZIT.SJHServer.UI.frmMain.resources
+D:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\obj\x86\Release\ZIT.SJHServer.UI.Properties.Resources.resources
+D:\120受理调度软件\四川\成都120\市县联网\市交换\src\SJHServer\obj\x86\Release\SJHServer.csproj.GenerateResource.Cache

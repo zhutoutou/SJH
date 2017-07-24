@@ -1,0 +1,37 @@
+[2016-07-13 16:10:05,843] 线程:[6936] DealDate Send 
+[2016-07-13 16:15:01,296] 线程:[7048] DealDate Send 
+[2016-07-13 16:15:36,875] 线程:[13252] 重发语句：update xtryb set isupdated=1 where isupdated=2 and RYBH='9001' 
+[2016-07-13 16:15:41,906] 线程:[13252] 重发语句：update xtryb set isupdated=1 where isupdated=2 and RYBH='9001' 
+[2016-07-13 16:15:49,562] 线程:[13252] 重发语句：update xtryb set isupdated=1 where isupdated=2 and RYBH='9001' 
+[2016-07-13 16:15:58,843] 线程:[13252] 重发语句：update xtryb set isupdated=1 where isupdated=2 and RYBH='9001' 
+[2016-07-13 16:16:04,312] 线程:[13252] 重发语句：update xtryb set isupdated=1 where isupdated=2 and RYBH='9001' 
+[2016-07-13 16:16:09,343] 线程:[13252] 重发语句：update xtryb set isupdated=1 where isupdated=2 and RYBH='9001' 
+[2016-07-13 16:16:10,109] 线程:[13384] DealDate Send 
+[2016-07-13 16:16:14,984] 线程:[13252] 重发语句：update xtryb set isupdated=1 where isupdated=2 and RYBH='9001' 
+[2016-07-13 16:16:44,109] 线程:[13252] 重发语句：update xtryb set isupdated=1 where isupdated=2 and RYBH='9001' 
+[2016-07-13 16:17:17,015] 线程:[13252] 重发语句：update xtryb set isupdated=1 where isupdated=2 and RYBH='9001' 
+[2016-07-13 16:17:32,968] 线程:[13252] 重发语句：update xtryb set isupdated=1 where isupdated=2 and RYBH='9001' 
+[2016-07-13 16:17:49,500] 线程:[13252] 重发语句：update xtryb set isupdated=1 where isupdated=2 and RYBH='9001' 
+[2016-07-13 16:17:59,218] 线程:[7048] DealDate：79 
+[2016-07-13 16:17:59,218] 线程:[7048] DealDate EnQueue 
+[2016-07-13 16:17:59,781] 线程:[7048] DealDate Send 
+[2016-07-13 16:18:00,031] 线程:[6936] DealDate：79 
+[2016-07-13 16:18:04,781] 线程:[13252] 重发语句：update xtryb set isupdated=1 where isupdated=2 and RYBH='9001' 
+[2016-07-13 16:18:04,781] 线程:[6936] DealDate EnQueue 
+[2016-07-13 16:18:08,437] 线程:[6936] DealDate Send 
+[2016-07-13 16:18:08,437] 线程:[7048] DealDate：81 
+[2016-07-13 16:18:08,437] 线程:[7048] DealDate EnQueue 
+[2016-07-13 16:18:55,703] 线程:[7048] DealDate Send 
+[2016-07-13 16:19:09,281] 线程:[6936] DealDate：82 
+[2016-07-13 16:19:09,281] 线程:[7048] DealDate：82 
+[2016-07-13 16:19:09,281] 线程:[7048] DealDate EnQueue 
+[2016-07-13 16:19:09,281] 线程:[6936] DealDate EnQueue 
+[2016-07-13 16:19:10,765] 线程:[7048] DealDate Send 
+[2016-07-13 16:19:33,968] 线程:[13252] 重发语句：update xtryb set isupdated=1 where isupdated=2 and RYBH='9001' 
+[2016-07-13 16:19:50,203] 线程:[7048] DealDate：84 
+[2016-07-13 16:19:50,203] 线程:[7048] DealDate EnQueue 
+[2016-07-13 16:20:03,328] 线程:[7048] DealDate Send 
+[2016-07-13 16:20:03,328] 线程:[13252] 重发语句：update xtryb set isupdated=1 where isupdated=2 and RYBH='9001' 
+[2016-07-13 16:20:22,765] 线程:[7048] DealDate：86 
+[2016-07-13 16:20:22,765] 线程:[7048] DealDate EnQueue 
+[2016-07-13 16:20:22,875] 线程:[7048] DealDate Send 

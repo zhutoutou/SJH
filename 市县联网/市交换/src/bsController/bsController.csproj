@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F63C2B12-1332-442B-9BFB-F894BBE66C09}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ZIT.SJHServer.bsController</RootNamespace>
+    <AssemblyName>bsController</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\bin\Release\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>none</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Auto</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <PlatformTarget>x86</PlatformTarget>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <PlatformTarget>x86</PlatformTarget>
+    <OutputPath>bin\x86\Release\</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BusinessServer\BServer.cs" />
+    <Compile Include="BusinessServer\BServerMsgHandler.cs" />
+    <Compile Include="Controller.cs" />
+    <Compile Include="DataSaved\SyncData.cs" />
+    <Compile Include="DataSaved\SyncLocalData.cs" />
+    <Compile Include="GpsServer\GServer.cs" />
+    <Compile Include="GpsServer\GServerMsgHandler.cs" />
+    <Compile Include="NetStatus.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SJHServer\ExchangeServer.cs" />
+    <Compile Include="SJHServer\ExchangeMsgHandler.cs" />
+    <Compile Include="SJHServer\ExchangeServerClient.cs" />
+    <Compile Include="SJHServer\UploadServer.cs" />
+    <Compile Include="SJHServer\UploadMsgHandler.cs" />
+    <Compile Include="SJHServer\UploadServerClient.cs" />
+    <Compile Include="StatusEventArgs.cs" />
+    <Compile Include="UnitsEventArgs.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\COM\COM.csproj">
+      <Project>{11912480-CCB9-489B-A745-86822A8101EA}</Project>
+      <Name>COM</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\fnArgs\fnArgs.csproj">
+      <Project>{1E67954B-B489-472C-AD28-19279BF5B939}</Project>
+      <Name>fnArgs</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\fnDataAccess\fnDataAccess.csproj">
+      <Project>{4361E745-86B1-4707-9D10-55A2940C0363}</Project>
+      <Name>fnDataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\fnLocalDataAccess\fnLocalDataAccess.csproj">
+      <Project>{ADD5A1B6-60C5-431D-98C0-75CC6393733E}</Project>
+      <Name>fnLocalDataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LOG\LOG.csproj">
+      <Project>{81326D76-FFD1-4637-BA8C-4CD73A75F196}</Project>
+      <Name>LOG</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Model\Model.csproj">
+      <Project>{EF3A2351-646D-4133-96BA-0B34EED74893}</Project>
+      <Name>Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Utility\Utility.csproj">
+      <Project>{9DA57D74-62F6-461F-88E7-4A251D7A35EC}</Project>
+      <Name>Utility</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,40 @@
+D:\tfs\联网系统\Dev\ZJS\DAM\obj\Debug\ResolveAssemblyReference.cache
+D:\tfs\联网系统\Dev\ZJS\DAM\bin\Debug\DAM.dll
+D:\tfs\联网系统\Dev\ZJS\DAM\bin\Debug\DAM.pdb
+D:\tfs\联网系统\Dev\ZJS\DAM\bin\Debug\LogManager.dll
+D:\tfs\联网系统\Dev\ZJS\DAM\bin\Debug\Model.dll
+D:\tfs\联网系统\Dev\ZJS\DAM\bin\Debug\log4net.dll
+D:\tfs\联网系统\Dev\ZJS\DAM\bin\Debug\LogManager.pdb
+D:\tfs\联网系统\Dev\ZJS\DAM\bin\Debug\Model.pdb
+D:\tfs\联网系统\Dev\ZJS\DAM\obj\Debug\DAM.dll
+D:\tfs\联网系统\Dev\ZJS\DAM\obj\Debug\DAM.pdb
+D:\杨世顺个人文件夹\TFS\市县联网\ZJS\DAM\bin\Debug\DAM.dll
+D:\杨世顺个人文件夹\TFS\市县联网\ZJS\DAM\bin\Debug\DAM.pdb
+D:\杨世顺个人文件夹\TFS\市县联网\ZJS\DAM\bin\Debug\LogManager.dll
+D:\杨世顺个人文件夹\TFS\市县联网\ZJS\DAM\bin\Debug\Model.dll
+D:\杨世顺个人文件夹\TFS\市县联网\ZJS\DAM\bin\Debug\log4net.dll
+D:\杨世顺个人文件夹\TFS\市县联网\ZJS\DAM\bin\Debug\LogManager.pdb
+D:\杨世顺个人文件夹\TFS\市县联网\ZJS\DAM\bin\Debug\Model.pdb
+D:\杨世顺个人文件夹\TFS\市县联网\ZJS\DAM\obj\Debug\ResolveAssemblyReference.cache
+D:\杨世顺个人文件夹\TFS\市县联网\ZJS\DAM\obj\Debug\DAM.dll
+D:\杨世顺个人文件夹\TFS\市县联网\ZJS\DAM\obj\Debug\DAM.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\宜昌7.9版本二级联网\软件\市县二级联网\市县联网(1)\市县联网\ZJS\DAM\bin\Debug\DAM.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\宜昌7.9版本二级联网\软件\市县二级联网\市县联网(1)\市县联网\ZJS\DAM\bin\Debug\DAM.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\宜昌7.9版本二级联网\软件\市县二级联网\市县联网(1)\市县联网\ZJS\DAM\bin\Debug\LogManager.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\宜昌7.9版本二级联网\软件\市县二级联网\市县联网(1)\市县联网\ZJS\DAM\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\宜昌7.9版本二级联网\软件\市县二级联网\市县联网(1)\市县联网\ZJS\DAM\bin\Debug\log4net.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\宜昌7.9版本二级联网\软件\市县二级联网\市县联网(1)\市县联网\ZJS\DAM\bin\Debug\LogManager.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\宜昌7.9版本二级联网\软件\市县二级联网\市县联网(1)\市县联网\ZJS\DAM\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\宜昌7.9版本二级联网\软件\市县二级联网\市县联网(1)\市县联网\ZJS\DAM\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\宜昌7.9版本二级联网\软件\市县二级联网\市县联网(1)\市县联网\ZJS\DAM\obj\Debug\DAM.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\宜昌7.9版本二级联网\软件\市县二级联网\市县联网(1)\市县联网\ZJS\DAM\obj\Debug\DAM.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\宜昌7.9版本二级联网\软件\市县二级联网\市县联网(2)\市县联网(1)\市县联网\ZJS\DAM\bin\Debug\DAM.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\宜昌7.9版本二级联网\软件\市县二级联网\市县联网(2)\市县联网(1)\市县联网\ZJS\DAM\bin\Debug\DAM.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\宜昌7.9版本二级联网\软件\市县二级联网\市县联网(2)\市县联网(1)\市县联网\ZJS\DAM\bin\Debug\LogManager.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\宜昌7.9版本二级联网\软件\市县二级联网\市县联网(2)\市县联网(1)\市县联网\ZJS\DAM\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\宜昌7.9版本二级联网\软件\市县二级联网\市县联网(2)\市县联网(1)\市县联网\ZJS\DAM\bin\Debug\log4net.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\宜昌7.9版本二级联网\软件\市县二级联网\市县联网(2)\市县联网(1)\市县联网\ZJS\DAM\bin\Debug\LogManager.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\宜昌7.9版本二级联网\软件\市县二级联网\市县联网(2)\市县联网(1)\市县联网\ZJS\DAM\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\宜昌7.9版本二级联网\软件\市县二级联网\市县联网(2)\市县联网(1)\市县联网\ZJS\DAM\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\宜昌7.9版本二级联网\软件\市县二级联网\市县联网(2)\市县联网(1)\市县联网\ZJS\DAM\obj\Debug\DAM.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\宜昌7.9版本二级联网\软件\市县二级联网\市县联网(2)\市县联网(1)\市县联网\ZJS\DAM\obj\Debug\DAM.pdb

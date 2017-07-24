@@ -1,0 +1,70 @@
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\市县联网姜正军版\县交换\src\fnDataAccess\bin\x86\Debug\DAM.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\市县联网姜正军版\县交换\src\fnDataAccess\bin\x86\Debug\DAM.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\市县联网姜正军版\县交换\src\fnDataAccess\bin\x86\Debug\LOG.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\市县联网姜正军版\县交换\src\fnDataAccess\bin\x86\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\市县联网姜正军版\县交换\src\fnDataAccess\bin\x86\Debug\log4net.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\市县联网姜正军版\县交换\src\fnDataAccess\bin\x86\Debug\LOG.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\市县联网姜正军版\县交换\src\fnDataAccess\bin\x86\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\市县联网姜正军版\县交换\src\fnDataAccess\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\市县联网姜正军版\县交换\src\fnDataAccess\obj\x86\Debug\DAM.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\市县联网姜正军版\县交换\src\fnDataAccess\obj\x86\Debug\DAM.pdb
+E:\Works\二三级联网\市县联网\县交换\src\fnDataAccess\bin\x86\Debug\DAM.dll
+E:\Works\二三级联网\市县联网\县交换\src\fnDataAccess\bin\x86\Debug\DAM.pdb
+E:\Works\二三级联网\市县联网\县交换\src\fnDataAccess\bin\x86\Debug\fnArgs.dll
+E:\Works\二三级联网\市县联网\县交换\src\fnDataAccess\bin\x86\Debug\LOG.dll
+E:\Works\二三级联网\市县联网\县交换\src\fnDataAccess\bin\x86\Debug\Model.dll
+E:\Works\二三级联网\市县联网\县交换\src\fnDataAccess\bin\x86\Debug\log4net.dll
+E:\Works\二三级联网\市县联网\县交换\src\fnDataAccess\bin\x86\Debug\fnArgs.pdb
+E:\Works\二三级联网\市县联网\县交换\src\fnDataAccess\bin\x86\Debug\LOG.pdb
+E:\Works\二三级联网\市县联网\县交换\src\fnDataAccess\bin\x86\Debug\Model.pdb
+E:\Works\二三级联网\市县联网\县交换\src\fnDataAccess\obj\x86\Debug\fnDataAccess.csprojResolveAssemblyReference.cache
+E:\Works\二三级联网\市县联网\县交换\src\fnDataAccess\obj\x86\Debug\DAM.dll
+E:\Works\二三级联网\市县联网\县交换\src\fnDataAccess\obj\x86\Debug\DAM.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网所有统计的表\县交换\src\fnDataAccess\bin\x86\Debug\DAM.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网所有统计的表\县交换\src\fnDataAccess\bin\x86\Debug\DAM.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网所有统计的表\县交换\src\fnDataAccess\bin\x86\Debug\fnArgs.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网所有统计的表\县交换\src\fnDataAccess\bin\x86\Debug\LOG.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网所有统计的表\县交换\src\fnDataAccess\bin\x86\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网所有统计的表\县交换\src\fnDataAccess\bin\x86\Debug\log4net.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网所有统计的表\县交换\src\fnDataAccess\bin\x86\Debug\fnArgs.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网所有统计的表\县交换\src\fnDataAccess\bin\x86\Debug\LOG.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网所有统计的表\县交换\src\fnDataAccess\bin\x86\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网所有统计的表\县交换\src\fnDataAccess\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网所有统计的表\县交换\src\fnDataAccess\obj\x86\Debug\DAM.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网所有统计的表\县交换\src\fnDataAccess\obj\x86\Debug\DAM.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网最终版\市县联网\市县联网所有统计的表\县交换\src\fnDataAccess\bin\x86\Debug\DAM.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网最终版\市县联网\市县联网所有统计的表\县交换\src\fnDataAccess\bin\x86\Debug\DAM.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网最终版\市县联网\市县联网所有统计的表\县交换\src\fnDataAccess\bin\x86\Debug\fnArgs.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网最终版\市县联网\市县联网所有统计的表\县交换\src\fnDataAccess\bin\x86\Debug\LOG.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网最终版\市县联网\市县联网所有统计的表\县交换\src\fnDataAccess\bin\x86\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网最终版\市县联网\市县联网所有统计的表\县交换\src\fnDataAccess\bin\x86\Debug\log4net.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网最终版\市县联网\市县联网所有统计的表\县交换\src\fnDataAccess\bin\x86\Debug\fnArgs.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网最终版\市县联网\市县联网所有统计的表\县交换\src\fnDataAccess\bin\x86\Debug\LOG.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网最终版\市县联网\市县联网所有统计的表\县交换\src\fnDataAccess\bin\x86\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网最终版\市县联网\市县联网所有统计的表\县交换\src\fnDataAccess\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网最终版\市县联网\市县联网所有统计的表\县交换\src\fnDataAccess\obj\x86\Debug\DAM.dll
+C:\Documents and Settings\Administrator\桌面\ZXH\二级联网\成都版本二级联网\成都120调度系统最新源码\市县联网最终版\市县联网\市县联网所有统计的表\县交换\src\fnDataAccess\obj\x86\Debug\DAM.pdb
+E:\Works\二三级联网\市县联网最终版\市县联网\市县联网所有统计的表\县交换\src\fnDataAccess\bin\x86\Debug\DAM.dll
+E:\Works\二三级联网\市县联网最终版\市县联网\市县联网所有统计的表\县交换\src\fnDataAccess\bin\x86\Debug\DAM.pdb
+E:\Works\二三级联网\市县联网最终版\市县联网\市县联网所有统计的表\县交换\src\fnDataAccess\bin\x86\Debug\fnArgs.dll
+E:\Works\二三级联网\市县联网最终版\市县联网\市县联网所有统计的表\县交换\src\fnDataAccess\bin\x86\Debug\LOG.dll
+E:\Works\二三级联网\市县联网最终版\市县联网\市县联网所有统计的表\县交换\src\fnDataAccess\bin\x86\Debug\Model.dll
+E:\Works\二三级联网\市县联网最终版\市县联网\市县联网所有统计的表\县交换\src\fnDataAccess\bin\x86\Debug\log4net.dll
+E:\Works\二三级联网\市县联网最终版\市县联网\市县联网所有统计的表\县交换\src\fnDataAccess\bin\x86\Debug\fnArgs.pdb
+E:\Works\二三级联网\市县联网最终版\市县联网\市县联网所有统计的表\县交换\src\fnDataAccess\bin\x86\Debug\LOG.pdb
+E:\Works\二三级联网\市县联网最终版\市县联网\市县联网所有统计的表\县交换\src\fnDataAccess\bin\x86\Debug\Model.pdb
+E:\Works\二三级联网\市县联网最终版\市县联网\市县联网所有统计的表\县交换\src\fnDataAccess\obj\x86\Debug\fnDataAccess.csprojResolveAssemblyReference.cache
+E:\Works\二三级联网\市县联网最终版\市县联网\市县联网所有统计的表\县交换\src\fnDataAccess\obj\x86\Debug\DAM.dll
+E:\Works\二三级联网\市县联网最终版\市县联网\市县联网所有统计的表\县交换\src\fnDataAccess\obj\x86\Debug\DAM.pdb
+E:\朱星汉\市县联网\县交换\src\fnDataAccess\bin\x86\Debug\DAM.dll
+E:\朱星汉\市县联网\县交换\src\fnDataAccess\bin\x86\Debug\DAM.pdb
+E:\朱星汉\市县联网\县交换\src\fnDataAccess\bin\x86\Debug\fnArgs.dll
+E:\朱星汉\市县联网\县交换\src\fnDataAccess\bin\x86\Debug\LOG.dll
+E:\朱星汉\市县联网\县交换\src\fnDataAccess\bin\x86\Debug\Model.dll
+E:\朱星汉\市县联网\县交换\src\fnDataAccess\bin\x86\Debug\log4net.dll
+E:\朱星汉\市县联网\县交换\src\fnDataAccess\bin\x86\Debug\fnArgs.pdb
+E:\朱星汉\市县联网\县交换\src\fnDataAccess\bin\x86\Debug\LOG.pdb
+E:\朱星汉\市县联网\县交换\src\fnDataAccess\bin\x86\Debug\Model.pdb
+E:\朱星汉\市县联网\县交换\src\fnDataAccess\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\朱星汉\市县联网\县交换\src\fnDataAccess\obj\x86\Debug\DAM.dll
+E:\朱星汉\市县联网\县交换\src\fnDataAccess\obj\x86\Debug\DAM.pdb
